@@ -1,0 +1,7 @@
+.hero-container{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    border: black solid;
+    justify-content: center;
+}
